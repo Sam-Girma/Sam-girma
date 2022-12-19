@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-girma&label=Profile%20views&color=0e75b6&style=flat" alt="sam-girma" /> </p>
 
-- 🔭 I’m currently working on **Car-price pridiction and Heart Disease Detection projects using machine learning.**
+- 🔭 I’m currently working on **Car-price prediction and heart disease detection projects using machine learning.**
 
 - 🌱 I’m currently learning **Tensorflow, Node.js, React**
 
