@@ -1,4 +1,3 @@
-![MasterHead](      https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
 <h1 align="center">Hi 👋, I'm Samuel Girma.</h1>
 <h3 align="center">A Dedicated Software Engineering Student.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
@@ -9,7 +8,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, Node.js, React**
 
-- 👨‍💻 See some of my projects at [https://sam-girma.github.io/samuel.github.io/](https://sam-girma.github.io/samuel.github.io/)
+- 👨‍💻 See some of my projects at [my portfolio](https://sam-girma.github.io/portfolio/)
 
 - 📫 How to reach me **samigirma53@gmail.com**
 
