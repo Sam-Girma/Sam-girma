@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Car-price prediction and heart disease detection projects using machine learning.**
 
-- 🌱 I’m currently learning **Tensorflow, Node.js, React**
+- 🌱 I’m currently learning **Tensorflow, Node.js**
 
 - 👨‍💻 See some of my projects at [my portfolio](https://sam-girma.github.io/portfolio/)
 
